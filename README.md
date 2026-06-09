@@ -1,9 +1,5 @@
 # scrapedatshi-ninja &nbsp;<img src="https://www.scrapedatshi.com/static/favicon-32.png" width="28" height="28" align="center" alt="scrapedatshi logo">
 
-[![API Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.scrapedatshi.com)](https://www.scrapedatshi.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Free to Use](https://img.shields.io/badge/Free-No%20Credit%20Card-brightgreen)](https://www.scrapedatshi.com)
-
 > A dead-simple API wrapper that converts raw HTML into clean, token-saving Markdown — purpose-built for AI agents, LLM context windows, LangChain, AutoGPT, and vector database retrieval pipelines.
 
 **scrapedatshi** strips away JavaScript bloat, DOM clutter, styles, tracking scripts, and sidebars, handing your LLM pure semantic markdown. A fast, lightweight, and entirely **free** alternative to Firecrawl, Jina Reader, and Crawl4AI.
